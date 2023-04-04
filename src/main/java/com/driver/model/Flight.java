@@ -29,6 +29,7 @@ public class Flight {
         this.duration = duration;
     }
 
+
     public int getFlightId() {
         return flightId;
     }
@@ -76,5 +77,6 @@ public class Flight {
     public void setDuration(double duration) {
         this.duration = duration;
     }
+
 
 }
